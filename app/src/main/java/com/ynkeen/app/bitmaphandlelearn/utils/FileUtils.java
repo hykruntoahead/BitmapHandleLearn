@@ -18,8 +18,7 @@ import java.io.OutputStream;
 
 /**
  * author: ykhe
- * date: 20-11-2
- * email: ykhe@grandstream.cn
+ * date: 20-11-2 
  * description:
  */
 public class FileUtils {

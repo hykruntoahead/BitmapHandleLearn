@@ -6,7 +6,6 @@ import android.graphics.Bitmap;
 /**
  * author: ykhe
  * date: 20-11-2
- * email: ykhe@grandstream.cn
  * description:
  */
 public class BlurUtil {

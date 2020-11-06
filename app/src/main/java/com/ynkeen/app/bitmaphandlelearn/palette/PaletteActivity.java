@@ -18,7 +18,6 @@ import com.ynkeen.app.bitmaphandlelearn.R;
 /**
  * author: ykhe
  * date: 20-11-6
- * email: ykhe@grandstream.cn
  * description:
  * Palette是一个类似调色板的工具类，根据传入的bitmap，提取出主体颜色，使得图片和颜色更加搭配，界面更协调。
  * Palette 可以从一张图片中提取颜色，我们可以把提取的颜色融入到App UI中，可以使UI风格更加美观融洽。

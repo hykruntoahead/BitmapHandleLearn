@@ -17,7 +17,6 @@ import com.ynkeen.app.bitmaphandlelearn.utils.FileUtils;
 /**
  * author: ykhe
  * date: 20-11-2
- * email: ykhe@grandstream.cn
  * description:
  */
 public class GsWallpaperService extends IntentService {

@@ -9,7 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.ListAdapter;
 import android.widget.TextView;
 
 import androidx.annotation.Nullable;
@@ -24,7 +23,6 @@ import java.util.List;
 /**
  * author: ykhe
  * date: 20-11-6
- * email: ykhe@grandstream.cn
  * description:
  */
 public class SwatchListAdapter extends BaseAdapter {

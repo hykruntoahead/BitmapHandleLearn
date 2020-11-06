@@ -13,7 +13,6 @@ import java.util.List;
 /**
  * author: ykhe
  * date: 20-11-6
- * email: ykhe@grandstream.cn
  * description:
  */
 public class PaletteSwatchActivity extends ListActivity {

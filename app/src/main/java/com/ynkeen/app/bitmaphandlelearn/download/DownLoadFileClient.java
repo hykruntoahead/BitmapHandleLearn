@@ -24,7 +24,6 @@ import java.net.URL;
 /**
  * author: ykhe
  * date: 20-11-2
- * email: ykhe@grandstream.cn
  * description: 用于下载文件
  */
 public class DownLoadFileClient {

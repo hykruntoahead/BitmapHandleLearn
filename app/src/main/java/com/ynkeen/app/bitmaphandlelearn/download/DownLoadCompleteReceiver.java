@@ -11,7 +11,6 @@ import com.ynkeen.app.bitmaphandlelearn.GsWallpaperService;
 /**
  * author: ykhe
  * date: 20-11-3
- * email: ykhe@grandstream.cn
  * description:
  */
 public class DownLoadCompleteReceiver extends BroadcastReceiver {
