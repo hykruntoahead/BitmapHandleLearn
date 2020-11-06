@@ -18,7 +18,7 @@ import java.io.OutputStream;
 
 /**
  * author: ykhe
- * date: 20-11-2 
+ * date: 20-11-2
  * description:
  */
 public class FileUtils {
